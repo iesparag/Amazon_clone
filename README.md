@@ -1,1 +1,1 @@
-# Amazon_clone
+# https://bright-heliotrope-8f2592.netlify.app/
